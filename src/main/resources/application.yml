@@ -1,0 +1,4 @@
+ai:
+  provider: openai
+  openai:
+    api-key: api-tofek-key
